@@ -5,7 +5,7 @@ My name is **Igor**
 I'm **17** y.o.
 I'm **Java** and **Go** Dev
 ### Contacts 📫
-**Web-site** with my contacts: **[igorok-follow.github.io]**(https://igorok-follow.github.io)
+**Web-site** with my contacts: **[igorok-follow.github.io](https://igorok-follow.github.io)**
 
 
 <!--
