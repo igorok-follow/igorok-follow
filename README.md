@@ -2,7 +2,7 @@
 void hello() {System.out.println("Hello world!")};
 ### Bio 💬
 My name is **Igor**  
-I'm **17** y.o.  
+I'm **18** y.o.  
 I'm from **Russian Federation**  
 I live in **Irkutsk**  
 I'm **Java** and **Go** Dev
