@@ -1,5 +1,5 @@
 # Hi there 👋
-void hello() {System.out.println("Hello world!")};
+func main {log.Println("Hello world!")};
 ### Bio 💬
 My name is **Igor**  
 I'm **18** y.o.  
