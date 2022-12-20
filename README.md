@@ -2,10 +2,10 @@
 func main {log.Println("Hello world!")}
 ### Bio 💬
 My name is **Igor**  
-I'm **18** y.o.  
+I'm **20** y.o.  
 I'm from **Russian Federation**  
 I live in **Irkutsk**  
-I'm **Java**, **Go** and **Kotlin** Dev
+I'm **Java** and **Go** Dev
 ### Contacts 📫
 **Web-site** with my contacts: **[igorok-follow.github.io](https://igorok-follow.github.io)**
 # My GitHub stats📈
